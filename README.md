@@ -1,6 +1,7 @@
 ¡Hola!
 
 Mi Discord: fredrikssonsandra
+
 No soy un bot, soy un ser humano.
 
 <!-- # 🪙 Token -->
