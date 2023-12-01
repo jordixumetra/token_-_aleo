@@ -1,3 +1,8 @@
+¡Hola!
+
+Mi Discord: fredrikssonsandra
+No soy un bot, soy un ser humano.
+
 <!-- # 🪙 Token -->
 
 [//]: # (<img alt="workshop/token" width="1412" src="../.resources/token.png">)
